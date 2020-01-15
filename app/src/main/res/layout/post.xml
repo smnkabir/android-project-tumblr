@@ -17,7 +17,7 @@
         android:layout_height="wrap_content"
         android:layout_weight="6"
         android:layout_marginRight="5dp"
-        android:background="#fff"
+        android:background="@drawable/rounded_white"
         android:orientation="vertical">
 
         <TextView
